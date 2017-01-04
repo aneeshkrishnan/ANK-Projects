@@ -1,0 +1,1 @@
+Example Flask app that can be deployed to an [Azure Web App for Linux](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/appsvclinux/).  For a step by step on how to deploy to Azure read the post at jamessturtevant.com.
