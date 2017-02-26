@@ -1,1 +1,3 @@
-Example Flask app that can be deployed to an [Azure Web App for Linux](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/appsvclinux/).  For a step by step on how to deploy to Azure read the post at jamessturtevant.com.
+Example Flask app that can be deployed to an [Azure Web App for Linux](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/appsvclinux/).  For a step by step on how to deploy to Azure read the post at [http://www.jamessturtevant.com/posts/Deploying-Python-Website-To-Azure-Web-with-Docker/](http://www.jamessturtevant.com/posts/Deploying-Python-Website-To-Azure-Web-with-Docker/).
+
+This project can also be deployed directly on the standard [Azure Web](https://azure.microsoft.com/en-us/services/app-service/web/). Fork this project then integrate with with [GitHub CI](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-continuous-deployment) on the web app.
